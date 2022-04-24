@@ -2,6 +2,7 @@
  Start up landing page for a fictional application named TinDog. TinDog allows the user to find other dogs & their owners nearby in the swipe left/right style made famous by Tinder. 
 <h2>Development</h2>
 Deployed Website: https://avirawat13.github.io/tin-dog/
+<br>
 <img src="images/Capture.png" alt="Website-Image">
 <h2>Built With</h2>
   <ul>
