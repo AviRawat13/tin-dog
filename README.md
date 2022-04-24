@@ -1,7 +1,7 @@
 <h1>🐶 TinDog</h1>
  Start up landing page for a fictional application named TinDog. TinDog allows the user to find other dogs & their owners nearby in the swipe left/right style made famous by Tinder. 
 <h2>Development</h2>
-Deployed Website: https://rosajen27.github.io/tindog/
+Deployed Website: https://avirawat13.github.io/tin-dog/
 <h2>Built With</h2>
   <ul>
     <li>HTML</li>
