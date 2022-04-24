@@ -2,6 +2,7 @@
  Start up landing page for a fictional application named TinDog. TinDog allows the user to find other dogs & their owners nearby in the swipe left/right style made famous by Tinder. 
 <h2>Development</h2>
 Deployed Website: https://avirawat13.github.io/tin-dog/
+<img src="images/Capture.png" alt="Website-Image">
 <h2>Built With</h2>
   <ul>
     <li>HTML</li>
@@ -9,7 +10,7 @@ Deployed Website: https://avirawat13.github.io/tin-dog/
     <li>Bootsstrap</li>
   </ul>
  <h2>Authors</h2>
-  <li>Avi Raawat<a href="#">AviRawat13</a>
+  <li><a href="www.linkedin.com/in/avi-rawat">AviRawat</a>
  <h2>License</h2>
 This project is licensed under the MIT License.
   
